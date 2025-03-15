@@ -4,7 +4,7 @@ Hi, I'm Anahat Mudgal, a Programmer, Game Developer, Musician, Writer, and Artis
 
 I have 5 years of experience with development across many different platforms and languages. I develop games using Unity, Godot, and Unreal Engine for all platforms, such as Desktop, Mobile, or VR. Additionally, I enjoy working on robotics and AI projects.
 
-### Links:
+### Links
 
 [![My Website](https://img.shields.io/badge/Portfolio_Website-AnahatMudgal.com-blue)](https://AnahatMudgal.com)
 [![YouTube](https://img.shields.io/badge/YouTube_Channel-red)](https://www.youtube.com/@AnahatMudgal)
@@ -13,7 +13,7 @@ I have 5 years of experience with development across many different platforms an
 [![BlueSky](https://img.shields.io/badge/Bluesky-mediumpurple)](https://bsky.app/profile/anahat.bsky.social)
 [![Follow Me](https://img.shields.io/github/followers/AnahatM?label=Follow&style=social)](https://github.com/AnahatM)
 
-### Tech Stack: 
+### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=2a2e34) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=2a2e34) 
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-05122A?style=flat-square&logo=Express&color=2a2e34) 
