@@ -19,6 +19,8 @@ Tech Stack: <br/><br/>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=2a2e34) 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=2a2e34) 
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=2a2e34) 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=2a2e34) 
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat-square&logo=Dart&color=2a2e34) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=2a2e34) 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&color=2a2e34) 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=C-Sharp&color=2a2e34) 
