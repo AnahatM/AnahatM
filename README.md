@@ -17,6 +17,7 @@ I have 5 years of experience with development across many different platforms an
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=2a2e34) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=2a2e34) 
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-05122A?style=flat-square&logo=Express&color=2a2e34) 
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat-square&logo=Vite&color=2a2e34)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=2a2e34) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript&color=2a2e34) 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=2a2e34) 
