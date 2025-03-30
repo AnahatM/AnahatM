@@ -1,3 +1,5 @@
+![Banner Image](/Banner.png)
+
 ## About Me
 
 Hi, I'm Anahat Mudgal, a Programmer, Game Developer, Musician, Writer, and Artist.
