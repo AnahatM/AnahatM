@@ -39,11 +39,11 @@ I have 5 years of experience with development across many different platforms an
 
 <br />
 
-![Anahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnahatM&hide=stars,issues&show_icons=true&bg_color=2a2e34&hide_border=true&text_color=fefefe&title_color=88c0d0&icon_color=88c0d0&rank_icon=github)
+![Anahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnahatM&hide=stars,issues&show_icons=true&bg_color=212830&hide_border=true&text_color=fefefe&title_color=fefefe&icon_color=7147eb&ring=7147eb&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnahatM&bg_color=2a2e34&hide_border=true&text_color=fefefe&title_color=88c0d0&icon_color=88c0d0&layout=compact&hide=ShaderLab,CMake,HLSL,Powershell)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnahatM&theme=dark&background=212830&border=2E3440&ring=7147EB&stroke=1d1d27&fire=7147eb&currStreakLabel=7147eb)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AnahatM&theme=dark&background=2A2E34&border=2E3440)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnahatM&bg_color=212830&hide_border=true&text_color=fefefe&title_color=fefefe&icon_color=7147eb&layout=compact&hide=ShaderLab,CMake,HLSL,Powershell)
 
 <!--
 **AnahatM/AnahatM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
