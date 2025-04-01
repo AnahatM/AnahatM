@@ -41,7 +41,7 @@ I have 5 years of experience with development across many different platforms an
 
 ![Anahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnahatM&hide=stars,issues&show_icons=true&bg_color=2a2e34&hide_border=true&text_color=fefefe&title_color=88c0d0&icon_color=88c0d0&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnahatM&bg_color=2a2e34&hide_border=true&text_color=fefefe&title_color=88c0d0&icon_color=88c0d0&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnahatM&bg_color=2a2e34&hide_border=true&text_color=fefefe&title_color=88c0d0&icon_color=88c0d0&layout=compact&hide=ShaderLab,CMake,HLSL,Powershell)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnahatM&theme=dark&background=2A2E34&border=2E3440)
 
